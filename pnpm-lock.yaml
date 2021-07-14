@@ -5,7 +5,7 @@ specifiers:
   '@types/node': ^16.3.2
   '@types/object-hash': ^2.1.1
   '@types/react': ^17.0.14
-  ether-swr: ^0.6.3
+  ether-swr: ^0.6.4
   ethers: ^5.4.1
   next: ^11.0.1
   nookies: ^2.5.2
@@ -20,7 +20,7 @@ specifiers:
   use-onboard: ^0.0.1
 
 dependencies:
-  ether-swr: 0.6.3_a62e1776b5eb4e1af797992193ef607a
+  ether-swr: 0.6.4_a62e1776b5eb4e1af797992193ef607a
   nookies: 2.5.2
   object-hash: 2.2.0
   quick-lru: 6.0.0
@@ -1021,8 +1021,8 @@ packages:
     engines: {node: '>= 0.6'}
     dev: true
 
-  /ether-swr/0.6.3_a62e1776b5eb4e1af797992193ef607a:
-    resolution: {integrity: sha512-qq0es2LA7UR6WFThxgLlOiCx2qlK/pTUqiS2KnM9Yt47qf6YUySoIKuxpshELcwO1pWaZ6u9qfXHV4gSZxvIvw==}
+  /ether-swr/0.6.4_a62e1776b5eb4e1af797992193ef607a:
+    resolution: {integrity: sha512-hWYhEGh4psz/KoYO6Exx/gmpm+3m7NeRL7DBw/KpGl68yUB6r8f2acpsVO+Fi58MuU7hTemLjiNuoskwffEHQA==}
     engines: {node: '>=10'}
     peerDependencies:
       ethers: '*'

@@ -42,7 +42,7 @@
     "ethers": "*"
   },
   "dependencies": {
-    "ether-swr": "^0.6.3",
+    "ether-swr": "^0.6.4",
     "nookies": "^2.5.2",
     "object-hash": "^2.2.0",
     "quick-lru": "^6.0.0",
