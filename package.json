@@ -1,6 +1,6 @@
 {
   "name": "next-eth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Isomorphic Ethereum library for Next.js.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
@@ -48,5 +48,8 @@
     "quick-lru": "^6.0.0",
     "swr": "^0.5.6",
     "use-onboard": "^0.0.1"
-  }
+  },
+  "files": [
+    "dist"
+  ]
 }
