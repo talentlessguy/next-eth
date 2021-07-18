@@ -1,4 +1,4 @@
-export { useWallet } from 'use-onboard'
+export { useOnboard as useWallet } from 'use-onboard'
 export { WALLETS } from './constants'
 export * from 'ether-swr'
 export { default as useEtherSWR } from 'ether-swr'
