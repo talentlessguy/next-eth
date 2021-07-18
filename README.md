@@ -25,7 +25,6 @@ const App = ({ initialWalletData, initialData }) => {
   // in case you are authorized before this won't ask to login from the wallet
   const { selectWallet, address, isWalletSelected, disconnectWallet } = useWallet({
     options: {
-      dappId: 'ba494c97-2bf3-4c4d-ba27-53fd376f0205',
       walletSelect: {
         wallets: WALLETS
       }
