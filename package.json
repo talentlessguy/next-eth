@@ -1,6 +1,6 @@
 {
   "name": "next-eth",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Isomorphic Ethereum library for Next.js.",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
@@ -27,14 +27,14 @@
   },
   "devDependencies": {
     "@rollup/plugin-typescript": "^8.2.3",
-    "@types/node": "^16.3.3",
+    "@types/node": "^16.4.0",
     "@types/object-hash": "^2.1.1",
     "@types/react": "^17.0.14",
     "ethers": "^5.4.1",
     "next": "^11.0.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "rollup": "^2.53.2",
+    "rollup": "^2.53.3",
     "tslib": "^2.3.0",
     "typescript": "^4.3.5"
   },
@@ -46,7 +46,7 @@
     "bnc-onboard": "^1.30.0",
     "ether-swr": "^0.6.4",
     "nookies": "^2.5.2",
-    "use-onboard": "^0.1.2"
+    "use-onboard": "^0.2.1"
   },
   "files": [
     "dist"
